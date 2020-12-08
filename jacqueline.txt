@@ -1,0 +1,1 @@
+Este é o primeiro arquivo criado dentro do comando do git bash
